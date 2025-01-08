@@ -1,0 +1,39 @@
+{
+  "board": [
+    {
+      "id": "2",
+      "name": "second",
+      "title": "첫번째 글쓰기입니다.",
+      "content": "첫번째 글쓰기입니다.",
+      "createDate": "2025. 12. 26. "
+    },
+    {
+      "id": "6384",
+      "title": "두번째 글쓰기입니다",
+      "content": "두번째 글쓰기입니다\n두번째 글쓰기입니다\n두번째 글쓰기입니다",
+      "name": "second",
+      "createDate": "2025. 1. 4."
+    },
+    {
+      "id": "c175",
+      "title": "세번째 글쓰기입니다",
+      "content": "세번째 글쓰기입니다\n세번째 글쓰기입니다\n세번째 글쓰기입니다",
+      "name": "third",
+      "createDate": "2025. 1. 4."
+    },
+    {
+      "id": "c437",
+      "title": "dkwdwjdj",
+      "content": "dkwdqjqemw",
+      "name": "2",
+      "createDate": "2025. 1. 8."
+    },
+    {
+      "id": "0239",
+      "title": "넌 내게",
+      "content": "26살이야\n",
+      "name": "영원히",
+      "createDate": "2025. 1. 8."
+    }
+  ]
+}
